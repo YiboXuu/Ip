@@ -1,0 +1,11 @@
+========== FINAL TOP-10 RESULTS ==========
+Order Key: 2456423  | Revenue: $406181.01    | Order Date: 1995-03-05 | Ship Priority: 0
+Order Key: 3459808  | Revenue: $405838.70    | Order Date: 1995-03-04 | Ship Priority: 0
+Order Key: 492164   | Revenue: $390324.06    | Order Date: 1995-02-19 | Ship Priority: 0
+Order Key: 1188320  | Revenue: $384537.94    | Order Date: 1995-03-09 | Ship Priority: 0
+Order Key: 2435712  | Revenue: $378673.06    | Order Date: 1995-02-26 | Ship Priority: 0
+Order Key: 4878020  | Revenue: $378376.80    | Order Date: 1995-03-12 | Ship Priority: 0
+Order Key: 5521732  | Revenue: $375153.92    | Order Date: 1995-03-13 | Ship Priority: 0
+Order Key: 2628192  | Revenue: $373133.31    | Order Date: 1995-02-22 | Ship Priority: 0
+Order Key: 993600   | Revenue: $371407.46    | Order Date: 1995-03-05 | Ship Priority: 0
+Order Key: 2300070  | Revenue: $367371.15    | Order Date: 1995-03-13 | Ship Priority: 0
